@@ -40,12 +40,8 @@ A smart Excel-based automation tool to scan folders, extract cost data from mult
 4. Select file(s) and run `AmbilDataBiayaMultiSelect`
 5. Extracted data will appear in columns C–S
 
-## 🧑‍💻 Author
-
-Galih Primananda  
-[LinkedIn](https://www.linkedin.com/in/galihprime)  
-[Instagram](https://www.instagram.com/glh_prima)
 
 ## 🛡️ License
 
 MIT (You may freely use and modify, attribution appreciated)
+
